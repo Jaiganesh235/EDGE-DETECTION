@@ -39,7 +39,7 @@ import matplotlib.pyplot as pl
 import cv2
 import matplotlib.pyplot as plt
 
-img=cv2.imread("gojo.jpg",0)
+img=cv2.imread("newo.jpg",0)
 gray=cv2.cvtColor(img,cv2.COLOR_GRAY2RGB)
 gray = cv2.GaussianBlur(gray,(3,3),0)
 ```
