@@ -118,19 +118,24 @@ plt.show()
 ## Output:
 ### SOBEL EDGE DETECTOR
 #### SOBEL X
-![Screenshot 2023-10-11 161814](https://github.com/Yamunaasri/EDGEDETECTION/assets/115707860/e3af0473-36e5-4210-bd65-abe971d19671)
+![image](https://github.com/Jaiganesh235/EDGE-DETECTION/assets/118657189/aadd8bb3-9a87-4535-a843-8f4364feb642)
+
 
 #### SOBEL Y
-![Screenshot 2023-10-11 161945](https://github.com/Yamunaasri/EDGEDETECTION/assets/115707860/500d4c4c-5f93-4e7d-ac81-40c4efcc01d1)
+![image](https://github.com/Jaiganesh235/EDGE-DETECTION/assets/118657189/b8dab61e-4f18-4aca-a001-fb3e52059a85)
+
 
 #### SOBEL XY
-![Screenshot 2023-10-11 162120](https://github.com/Yamunaasri/EDGEDETECTION/assets/115707860/7ec6da2d-9287-457f-b9a1-7d747cc28b33)
+![image](https://github.com/Jaiganesh235/EDGE-DETECTION/assets/118657189/d5a94c9e-97a5-4bc7-9dc1-2ca87c1a03e7)
+
 
 ### LAPLACIAN EDGE DETECTOR
-![Screenshot 2023-10-11 162146](https://github.com/Yamunaasri/EDGEDETECTION/assets/115707860/795fb662-f728-43a8-bad2-2a00fb27ca06)
+![image](https://github.com/Jaiganesh235/EDGE-DETECTION/assets/118657189/b11e0ad7-16fc-43bf-a3fd-edc631ee572a)
+
 
 ### CANNY EDGE DETECTOR
-![Screenshot 2023-10-11 162217](https://github.com/Yamunaasri/EDGEDETECTION/assets/115707860/dd97f663-2534-4fe2-a6a7-ad60ddefce37)
+![image](https://github.com/Jaiganesh235/EDGE-DETECTION/assets/118657189/590e7819-853f-41d3-8478-26f9a920ba37)
+
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
